@@ -14,4 +14,4 @@ This is a simple web project, deployment can be on any server or even local file
 Please fork this repo.
 
 ## Copyright
-2019 Git.Training
+2019 Git.Training. All Rights Reserved.
