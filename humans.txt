@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Hearts
 
 # TECHNOLOGY COLOPHON
 
